@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+results/
+results_smoke/
+figures/
+*.zip
+*.npz
+*.jsonl
+*.csv
+*.png
+*.pdf
+
+# keep the README figure (png files are otherwise ignored)
+!docs/
+!docs/*.png
